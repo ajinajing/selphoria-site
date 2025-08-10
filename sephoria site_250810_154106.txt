@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Selphoria</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selphoria (셀포리아)</h1>
+    <p>잠재력 발현 명리 기반 앱 서비스 준비중입니다.</p>
+    <p>Coming Soon...</p>
+</body>
+</html>
